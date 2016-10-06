@@ -1,0 +1,24 @@
+{
+	"name": "most-byline",
+	"version": "1.0.0",
+	"description": "Turn a Node ReadableStream into a Most.js stream.",
+	"main": "most-byline.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/most-byline"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "ISC",
+	"directories": {
+		"example": "example"
+	},
+	"dependencies": {
+		"byline": "^5.0.0",
+		"most": "^1.0.3"
+	},
+	"devDependencies": {}
+}
